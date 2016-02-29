@@ -5,7 +5,7 @@ Soal
 
 Cara pengerjaan :
 * Isi data diri dengan mengedit **data-diri.md**
-* Edit / gunakan project yang telah disediakan  
+* Edit / gunakan project yang telah disediakan **(Soal_1)**  
 * Masukkan screenshot pada folder **screenshot**
 
 **Jika pekerjaan plagiasi, maka nilai tugas ini akan di 0 kan untuk semua pihak yang terlibat.**
