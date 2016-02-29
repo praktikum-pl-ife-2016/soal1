@@ -1,5 +1,5 @@
 Data Diri
 ===
-### Nama :   
-### NIM :  
-### Kelas :
+Nama :   
+NIM :  
+Kelas :
