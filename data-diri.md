@@ -1,5 +1,5 @@
 Data Diri
 ===
-Nama :   
-NIM :  
-Kelas :
+Nama : Agung Firdaus
+NIM : 155150200111054
+Kelas : TIF - E
