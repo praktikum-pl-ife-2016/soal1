@@ -1,5 +1,5 @@
 Data Diri
 ===
-Nama :   
-NIM :  
-Kelas :
+Nama :   MUHAMMAD RIDWAN
+NIM :    155150200111057
+Kelas :  TEKNIK INFORMATIKA E
