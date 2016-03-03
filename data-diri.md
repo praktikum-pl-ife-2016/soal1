@@ -1,5 +1,5 @@
 Data Diri
 ===
-Nama :   
-NIM :  
-Kelas :
+Nama	: Iwi Suharti   
+NIM 	: 155150200111064  
+Kelas	: Teknik Informatika E
