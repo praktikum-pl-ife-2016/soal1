@@ -1,5 +1,5 @@
 Data Diri
 ===
-Nama :   
-NIM :  
-Kelas :
+Nama : Luthfi Pratama Nugraha
+NIM :  155150201111092
+Kelas : TIF - E
