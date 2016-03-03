@@ -1,5 +1,5 @@
 Data Diri
 ===
-Nama :   
-NIM :  
-Kelas :
+Nama : RASIO GANANG ATMAJA
+NIM :  155150201111083
+Kelas :TEKNIK INFORMATIKA - E 
