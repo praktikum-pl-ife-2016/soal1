@@ -1,5 +1,5 @@
 Data Diri
 ===
-Nama :   
-NIM :  
-Kelas :
+Nama :  Haryuni Siahaan
+NIM :   155150201111088
+Kelas : IF-E
