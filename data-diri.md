@@ -1,5 +1,5 @@
 Data Diri
 ===
-Nama :   
-NIM :  
-Kelas :
+Nama :   Kelvin Aditya Prasetio
+NIM :  155150207111036
+Kelas :IF - E
