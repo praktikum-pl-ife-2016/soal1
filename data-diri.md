@@ -1,5 +1,5 @@
 Data Diri
 ===
-Nama :   
-NIM :  
-Kelas :
+Nama :   MOCHAMMAD DEARIFALDI AL IKHSAN
+NIM :  155150207111033
+Kelas :TEKNIK INFORMATIKA - E
