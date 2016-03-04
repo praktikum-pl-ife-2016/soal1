@@ -1,5 +1,5 @@
 Data Diri
 ===
-Nama :   
-NIM :  
-Kelas :
+Nama :   Mahardika Yuristyawan Putra
+NIM :  155150200111060
+Kelas : TIF - E
