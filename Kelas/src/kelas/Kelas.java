@@ -1,3 +1,5 @@
+package kelas;
+
 
 public class Kelas {
     String nama, kelas, nim, tempatLahir, tanggalLahir;
