@@ -3,16 +3,16 @@ package soal_1;
 public class Main {
 
     public static void main(String[] args) {
-        mahasiswa satu=new mahasiswa();
+        Mahasiswa satu=new Mahasiswa();
         satu.getData();
-        mahasiswa dua=new mahasiswa();
+        Mahasiswa dua=new Mahasiswa();
         dua.jurusan="siskom";
         dua.makanKesukaan="lele";
         dua.nama="ahmad";
         dua.nim=3124235;
         dua.umur=12;
         dua.getData();
-        mahasiswa tiga=new mahasiswa();
+        Mahasiswa tiga=new Mahasiswa();
          tiga.jurusan="agrotek";
         tiga.makanKesukaan="tahu";
         tiga.nama="nopal";
