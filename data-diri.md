@@ -1,5 +1,5 @@
 Data Diri
 ===
-Nama :   
-NIM :  
-Kelas :
+Nama : Kevin Romero  
+NIM :  155150201111078
+Kelas :TIF E
