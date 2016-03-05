@@ -1,5 +1,5 @@
 Data Diri
 ===
-Nama :   
-NIM :  
-Kelas :
+Nama : Wunsel Arto Negoro
+NIM :  155150201111089
+Kelas :IF-E
