@@ -1,5 +1,5 @@
 Data Diri
 ===
-Nama :   
-NIM :  
-Kelas :
+Nama :   Afif Dwi Murtadha
+NIM :  155150201111090
+Kelas :IF-E
