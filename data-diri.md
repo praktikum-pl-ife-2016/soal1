@@ -1,5 +1,5 @@
 Data Diri
 ===
-Nama :   
-NIM :  
-Kelas :
+Nama :   Charles Sanggalangi
+NIM  :   155150201111091 
+Kelas :  E
