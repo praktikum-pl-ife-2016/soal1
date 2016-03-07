@@ -1,5 +1,5 @@
 Data Diri
 ===
-Nama :   
-NIM :  
-Kelas :
+Nama :   Muhammad Ainun Najib
+NIM :  	 155150200111063
+Kelas :	 E
